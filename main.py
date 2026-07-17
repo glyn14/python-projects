@@ -3,6 +3,7 @@ from utils import add_visitor, show_visitors
 def main():
     visitors = []
 
+
     while True:
         print("\n--- Barangay Visitor Log ---")
         name = input("Enter visitor name: ")
